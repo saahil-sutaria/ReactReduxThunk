@@ -1,0 +1,44 @@
+.top-bar {
+    max-width: max-content;
+    min-height: max-content;
+}
+.side-bar p{
+    font-size: 1vw;
+    color: rgb(141, 139, 131);
+}
+.side-bar p b {
+    color: black;
+    font-size: 2vw;
+}
+.product-tags{
+    display: flex;
+    flex-wrap: wrap;   
+}
+.transbox{
+    display: block;
+    border: solid 0.5px black;
+    background-color: rgb(248, 250, 251);
+    font: 14px/1 sans-serif;
+    border-radius: 3px;
+    padding: 2px;
+    margin: 5px;
+}
+.transbox p {
+    font : bold;
+    color: #07070798;
+    font-size: 0.9vw;
+    margin: auto;
+  }
+.side-options p{
+    font-size : 1vw;
+    font-weight: 600;
+    position: relative;
+    text-align: left;
+}
+@font-face {
+    font-family: 'billabongregular';
+    src: url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.eot");
+    src: url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.eot?#iefix") format('embedded-opentype'), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.woff") format('woff'), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.ttf") format('truetype'), url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.svg#billabongregular") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
