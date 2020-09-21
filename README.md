@@ -1,3 +1,5 @@
 SAMPLE SCREENSHOT 
 
+CLICK ON COLUMN HEADINGS TO SORT THE TABLE 
+
 ![](public/screenshot.png)
