@@ -23,12 +23,12 @@ function Sidebar(props) {
                   </div>
                   <hr/>
                   <div className = "side-options">
-                          <p><img width="30px" height="30px" alt="icon1" src="https://github.com/saahil-sutaria/StacklineReactRedux/blob/master/public/overview.png"/>
+                          <p><img width="20%" height="30%" alt="icon1" src="https://github.com/saahil-sutaria/StacklineReactRedux/blob/master/public/overview.png?raw=true"/>
                               &nbsp;
                               OVERVIEW
                           </p>
-                          <p style={{marginLeft:"5px", color: "black"}}>
-                              <img width="20px" alt="icon2" height="19px" src="https://github.com/saahil-sutaria/StacklineReactRedux/blob/master/public/sales.png"/>
+                          <p style={{marginLeft:"9px", color: "black"}}>
+                              <img width="12%"  height="18%" alt="icon2" src="https://github.com/saahil-sutaria/StacklineReactRedux/blob/master/public/sales.png?raw=true"/>
                               &nbsp;
                               &nbsp;
                               SALES
