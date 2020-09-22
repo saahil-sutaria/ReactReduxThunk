@@ -10,7 +10,7 @@ function Sidebar(props) {
   const tags = props.tags
   return (
     <div className="side-bar" >
-        <Card style={{padding:"10px", height:"100vh"}}>
+        <Card style={{padding:"10px", height:"100%"}}>
             <Card.Img src={props.image} alt="product"></Card.Img>
             <Card.Body style={{textAlign:"center"}}> 
                   <p><b>{props.title}</b></p>
